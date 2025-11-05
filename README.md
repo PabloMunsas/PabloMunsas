@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pablo Muñoz</h1>
-<h3 align="center">A passionate frontend and backend developer from Spain</h3>
+<h3 align="center">A passionate fullstack developer from Spain</h3>
 
 - 💬 Ask me about **java, javascript, html, css**
 
