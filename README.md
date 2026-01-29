@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pablo Muñoz</h1>
 <h3 align="center">A passionate fullstack developer from Spain</h3>
 
-- 💬 Ask me about **java, javascript, html, css**
+- 💬 Ask me about **java, angular, spring boot, API...**
 
 - 📫 How to reach me **pabloms.prof26@gmail.com**
 
